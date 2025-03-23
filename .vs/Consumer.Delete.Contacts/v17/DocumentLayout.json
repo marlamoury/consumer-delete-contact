@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|c:\\users\\marla\\source\\repos\\consumer-delete-contact\\infrastructure\\messaging\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|solutionrelative:infrastructure\\messaging\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|c:\\users\\marla\\source\\repos\\consumer-delete-contact\\application\\dto\\contatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|solutionrelative:application\\dto\\contatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|c:\\users\\marla\\source\\repos\\consumer-delete-contact\\application\\services\\icontatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|solutionrelative:application\\services\\icontatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|c:\\users\\marla\\source\\repos\\consumer-delete-contact\\application\\services\\contatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|solutionrelative:application\\services\\contatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|c:\\users\\marla\\source\\repos\\consumer-delete-contact\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|c:\\users\\marla\\source\\repos\\consumer-delete-contact\\infrastructure\\persistence\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|solutionrelative:infrastructure\\persistence\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|c:\\users\\marla\\source\\repos\\consumer-delete-contact\\worker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|solutionrelative:worker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|c:\\users\\marla\\source\\repos\\consumer-delete-contact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|c:\\users\\marla\\source\\repos\\consumer-delete-contact\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|solutionrelative:worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|c:\\users\\marla\\source\\repos\\consumer-delete-contact\\infrastructure\\persistence\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|solutionrelative:infrastructure\\persistence\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|c:\\users\\marla\\source\\repos\\consumer-delete-contact\\domain\\entities\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|solutionrelative:domain\\entities\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|c:\\users\\marla\\source\\repos\\consumer-delete-contact\\application\\dto\\contatodtoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72265F2-BB05-4338-8A28-50C7B04257E7}|Consumer.Delete.Contact.csproj|solutionrelative:application\\dto\\contatodtoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,28 +90,136 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Infrastructure\\Persistence\\ContatoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ContatoRepository.cs",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Infrastructure\\Persistence\\ContatoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ContatoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:16:26.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContatoService.cs",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Application\\Services\\ContatoService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ContatoService.cs",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Application\\Services\\ContatoService.cs",
+              "RelativeToolTip": "Application\\Services\\ContatoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:14:38.76Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RabbitMQConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Infrastructure\\Messaging\\RabbitMQConsumer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Messaging\\RabbitMQConsumer.cs",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Infrastructure\\Messaging\\RabbitMQConsumer.cs",
+              "RelativeToolTip": "Infrastructure\\Messaging\\RabbitMQConsumer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAswE8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:15:48.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T11:10:21.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IContatoService.cs",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Application\\Services\\IContatoService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\IContatoService.cs",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Application\\Services\\IContatoService.cs",
+              "RelativeToolTip": "Application\\Services\\IContatoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:15:01.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContatoDto.cs",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Application\\DTO\\ContatoDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\ContatoDto.cs",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Application\\DTO\\ContatoDto.cs",
+              "RelativeToolTip": "Application\\DTO\\ContatoDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:13:48.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Worker\\Worker.cs",
+              "RelativeDocumentMoniker": "Worker\\Worker.cs",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Worker\\Worker.cs",
+              "RelativeToolTip": "Worker\\Worker.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:17:09.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T23:53:59.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T23:53:59.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Worker.cs",
-              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Worker.cs",
-              "RelativeDocumentMoniker": "Worker.cs",
-              "ToolTip": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Worker.cs",
-              "RelativeToolTip": "Worker.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "DocumentIndex": 8,
+              "Title": "IContatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Infrastructure\\Persistence\\IContatoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\IContatoRepository.cs",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Infrastructure\\Persistence\\IContatoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\IContatoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T23:53:05.334Z"
+              "WhenOpened": "2025-03-23T10:16:48.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Domain\\Entities\\Contato.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Contato.cs",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Domain\\Entities\\Contato.cs",
+              "RelativeToolTip": "Domain\\Entities\\Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:15:27.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContatoDtoExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Application\\DTO\\ContatoDtoExtensions.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\ContatoDtoExtensions.cs",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\consumer-delete-contact\\Application\\DTO\\ContatoDtoExtensions.cs",
+              "RelativeToolTip": "Application\\DTO\\ContatoDtoExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:14:10.587Z"
             }
           ]
         }
